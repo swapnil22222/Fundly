@@ -1,0 +1,25 @@
+{
+  "name": "invoice-dapp",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0",
+    "react-scripts": "5.0.1",
+    "ethers": "^6.11.0",
+    "jspdf": "^2.5.1",
+    "html2canvas": "^1.4.1",
+    "framer-motion": "^11.0.6",
+    "react-hot-toast": "^2.4.1",
+    "lucide-react": "^0.344.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [">0.2%"],
+    "development": ["last 1 chrome version"]
+  }
+}
