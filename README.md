@@ -1,4 +1,4 @@
-# NyaaPay 🐾✿ — Invoice DeFi DApp
+# Fundly 🐾✿ — Invoice DeFi DApp
 
 Kawaii invoice funding on Ethereum Sepolia testnet!
 
